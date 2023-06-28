@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Name-1",
+    "weight": 50,
+    "code": "CODE_01",
+    "image": "http://localhost/image1"
+  },
+  {
+    "name": "Name-2",
+    "weight": 150,
+    "code": "CODE_02",
+    "image": "http://localhost/image2"
+  }
+]
